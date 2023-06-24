@@ -1,4 +1,4 @@
-# better-Trojan
+# What is the Better Trojan?
 
-Copyed NoEscape.exe but source is made by me sorry dev
-No source code
+Better Trojan is NoEscape Fan Made Ver
+
