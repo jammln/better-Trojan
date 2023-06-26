@@ -2,5 +2,5 @@ using System
 using System.Windows.Forms;
 
 {
-  MessageBox.Show("Nothing lol","HAHA")
+  MessageBox.Show("Nothing lol","HAHA", MessageBoxButtons.OK)
 }
