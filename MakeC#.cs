@@ -1,6 +1,11 @@
 using System
 using System.Windows.Forms;
 
+private static void MakeC# 
 {
-  MessageBox.Show("Nothing lol","HAHA", MessageBoxButtons.OK)
+    private void main() {
+    int i = "lol"
+    MessageBox.Show(i, i, MessageBoxButtons.Ok, MessageBoxIcon.Warning);
+    Application.Exit(-1)
+    }
 }
